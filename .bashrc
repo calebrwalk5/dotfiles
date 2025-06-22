@@ -92,11 +92,7 @@ fi
 #alias la='ls -A'
 #alias l='ls -CF'
 alias c='clear'
-alias more='less'
-alias upall='sudo apt update && sudo apt upgrade'
 alias gclone='git clone '
-alias ssh-nas='ssh server@72.46.34.69'
-alias greenwithenvy='gwe'
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
