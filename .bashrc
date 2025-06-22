@@ -114,9 +114,6 @@ if ! shopt -oq posix; then
   fi
 fi
 
-xrandr --output HDMI-0 --right-of DP-4
-xrandr --output DVI-I-1 --left-of DP-4
-feh --bg-fill ~/Pictures/wallpaper.png
 clear && neofetch --cpu_speed off --cpu_temp on
 
 grey='\[\033[1;30m\]'
